@@ -24,6 +24,8 @@ Una vez clonado el ejercico deberás hacer `npm install` en terminal para instal
   - Utiliza literal string para construir páginas HTML directamente en el código..
   - Crea una página para cada especialidad que muestre el título de la página, el número de personas y los detalles de cada usuario.
 
+// VAMOS POR AQUÍ
+ 
 5. Prueba de la Aplicación:
   - Abre tu navegador y visita las diferentes rutas, por ejemplo:
 http://localhost:3000/marketing
